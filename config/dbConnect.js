@@ -1,11 +1,12 @@
-import mongoose from 'mongoose';
+// import mongoose from 'mongoose';
+const mongoose = require('mongoose');
 
 const dbConnect = () => {
   if(mongoose.connection.readyState >= 1){
     return
   }
 
-  mongoose.connect(process.env.DB_LOCAL_URI, {
+  mongoose.connect('mongodb://localhost:27017/room-booking-app', {
     useNewUrlParser: true,
     useUnifiedTopology: true,
     useFindAndModify: false,
@@ -13,4 +14,6 @@ const dbConnect = () => {
   })
 }
 
-export default dbConnect;
+// export default dbConnect;
+
+module.exports = dbConnect;
