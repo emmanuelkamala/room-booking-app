@@ -1,34 +1,60 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# Room Booking App
+
+This is a room booking app, were a user can book a room, pay for it and enter into a booked a room
+
+![screenshot](./frontend/public/images/1.png)
+![screenshot](./frontend/public/images/2.png)
+![screenshot](./frontend/public/images/3.png)
+
+# Live Demo
+Coming soon...
+
+
+## Built With
+
+- ReactJS
+- NextJS
+- CSS
+- MongoDB
+
 
 ## Getting Started
 
-First, run the development server:
+Open your terminal or text editor and use next command
 
-```bash
-npm run dev
-# or
-yarn dev
-```
+        git clone https://github.com/emmanuelkamala/room-booking-ap.git
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+        ### run 'npm install' to install dependencies
+        ### npm start
 
-You can start editing the page by modifying `pages/index.js`. The page auto-updates as you edit the file.
 
-[API routes](https://nextjs.org/docs/api-routes/introduction) can be accessed on [http://localhost:3000/api/hello](http://localhost:3000/api/hello). This endpoint can be edited in `pages/api/hello.js`.
+## Opening the app
 
-The `pages/api` directory is mapped to `/api/*`. Files in this directory are treated as [API routes](https://nextjs.org/docs/api-routes/introduction) instead of React pages.
+Then open the browser and enter this link:
+http://localhost:3000
 
-## Learn More
+After if you want to do any changes please create new branch, after changes open pull request.
+Happy coding! 
 
-To learn more about Next.js, take a look at the following resources:
+## Authors
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+👤 **Author1**
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+- Github: [emmanuelkamala](https://github.com/emmanuelkamala)
+- Twitter: [ejkamala](https://twitter.com/ejkamala)
+- Linkedin: [emmanuelkamala](https://linkedin.com/in/emmanuelkamala)
 
-## Deploy on Vercel
+## 🤝 Contributing
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+Contributions, issues and feature requests are welcome!
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+Feel free to check the [issues page](issues/).
+
+## Show your support
+
+Give a ⭐️ if you like this project!
+
+
+## 📝 License
+
+This project is [MIT](lic.url) licensed.
