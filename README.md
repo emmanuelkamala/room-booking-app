@@ -7,7 +7,7 @@ This is a room booking app, were a user can book a room, pay for it and enter in
 ![screenshot](./frontend/public/images/3.png)
 
 # Live Demo
-Coming soon....
+Coming soon...
 
 
 ## Built With
